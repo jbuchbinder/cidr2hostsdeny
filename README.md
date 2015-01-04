@@ -1,5 +1,7 @@
 # CIDR2HOSTSDENY
 
+[![Gobuild Download](http://gobuild.io/badge/github.com/jbuchbinder/cidr2hostsdeny/downloads.svg)](http://gobuild.io/github.com/jbuchbinder/cidr2hostsdeny)
+
 Convert CIDR formatted netblock lists to /etc/hosts.deny format.
 
 ## USAGE
